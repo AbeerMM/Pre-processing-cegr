@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 from bioblend import galaxy
 
 g = galaxy.GalaxyInstance(url='http://127.0.0.1:8080', key='0b3e517e52601dfb4a866f0688110679')
