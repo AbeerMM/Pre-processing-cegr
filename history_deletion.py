@@ -5,7 +5,7 @@ g = galaxy.GalaxyInstance(url='http://127.0.0.1:8080', key='0b3e517e52601dfb4a86
 g.histories.get_histories()
 
 
-# you already have history ids in a text file -->> 
+# you already have history ids in a text file -->> Change the path in the next script line to your text file
 # purge = True, deleted = True
 
 #loop to delete all histories for all given ids in a text file
